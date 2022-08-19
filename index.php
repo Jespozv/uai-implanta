@@ -190,7 +190,7 @@
           <div class="col-md-4">
             <div class="box ">
               <div class="img-box">
-				<i class="fa-solid fa-3x fa-map-location-dot"></i>
+				<i href="#googleMap" class="fa-solid fa-3x fa-map-location-dot"></i>
               </div>
               <div class="detail-box">
                 <h5>
