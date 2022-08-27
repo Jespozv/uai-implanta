@@ -109,10 +109,8 @@
                     <h1>
                       Mide tu huella e IMPLANTA el cambio
                     </h1>
-					<div class="btn-box">
-                      <a href="#departament" class="btn1">
-                        Quiero ser parte...
-                      </a>
+					<div class="img-box">
+                     	<img src="images/qr-code.png/>
                     </div>
                   </div>
                 </div>
@@ -153,7 +151,7 @@
                   ¿Cómo?
                 </h5>
                 <p>
-                  Mide tu huella, juega e implanta el cambio
+                  Mide tu huella de carbono, juega e imPlanta el cambio...
                 </p>
               </div>
             </div>
@@ -312,28 +310,7 @@
   </section>
 
   <!-- end facilitadores del cambio section -->
-  <!--
-  <!-- mapa section -->
-  <section class="contact_section layout_padding">
-    <div class="container">
-      <div class="heading_container heading_center">
-        <h2>
-          Te estamos esperando...
-        </h2>
-      </div>
-      <div class="row">
-        <div class="col-md-12">
-          <div class="map_container">
-            <div class="map">
-              <div id="googleMap"></div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- end mapa section -->
-  -->
+
   <!-- footer section -->
   <footer class="footer_section">
     <div class="container">
