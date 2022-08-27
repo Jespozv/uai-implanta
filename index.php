@@ -107,7 +107,7 @@
                 <div class="col-md-12">
                   <div class="detail-box">
                     <h1>
-                      Recicla con nosotros y PLANTA el cambio
+                      Mide tu huella y PLANTA el cambio
                     </h1>
 					<div class="btn-box">
                       <a href="#departament" class="btn1">
@@ -143,7 +143,7 @@
           </h2>
         </div>
         <div class="row">
-          <div class="col-md-4">
+          <div class="col-md-6">
             <div class="box ">
               <div class="img-box">
                 <i class="fa-solid fa-3x fa-recycle"></i>
@@ -153,11 +153,12 @@
                   ¿Cómo?
                 </h5>
                 <p>
-                  Busca nuestro punto de intercambio, tráenos tu envase para reciclar y llévate un regalo para plantar y cambiar 
+                  Mide tu huella, juega e implanta el cambio
                 </p>
               </div>
             </div>
           </div>
+	 <!--
           <div class="col-md-4">
             <div class="box ">
               <div class="img-box">
@@ -173,7 +174,8 @@
               </div>
             </div>
           </div>
-          <div class="col-md-4">
+	  -->
+          <div class="col-md-6">
             <div class="box ">
               <div class="img-box">
 				<i class="fa-solid fa-3x fa-face-smile-beam"></i>
@@ -183,7 +185,7 @@
                   ¿Por qué?
                 </h5>
                 <p>
-					Cada pequeña acción que hacemos, es más grande de lo que creemos... el mundo necesita tu ayuda, recicla e impacta con IMPLANTA cuidando tu nueva Planta
+					Cada pequeña acción que hacemos, es más grande de lo que creemos... el mundo necesita tu ayuda, disminuye e impacta con IMPLANTA cuidando tu nueva Planta
                 </p>
               </div>
             </div>
@@ -310,7 +312,7 @@
   </section>
 
   <!-- end facilitadores del cambio section -->
-
+  <!--
   <!-- mapa section -->
   <section class="contact_section layout_padding">
     <div class="container">
@@ -331,7 +333,7 @@
     </div>
   </section>
   <!-- end mapa section -->
-
+  -->
   <!-- footer section -->
   <footer class="footer_section">
     <div class="container">
