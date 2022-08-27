@@ -110,7 +110,7 @@
                       Mide tu huella e IMPLANTA el cambio
                     </h1>
 					<div class="img-box">
-                     	<img src="images/qr-code.png/>
+                     	<img src="images/qr-code.png">
                     </div>
                   </div>
                 </div>
@@ -189,11 +189,13 @@
             </div>
           </div>
         </div>
+	<!--
         <div class="btn-box">
           <a href="#googleMap">
             Ver mapa
           </a>
         </div>
+	-->
       </div>
     </div>
   </section>
