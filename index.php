@@ -107,7 +107,7 @@
                 <div class="col-md-12">
                   <div class="detail-box">
                     <h1>
-                      Mide tu huella y PLANTA el cambio
+                      Mide tu huella e IMPLANTA el cambio
                     </h1>
 					<div class="btn-box">
                       <a href="#departament" class="btn1">
